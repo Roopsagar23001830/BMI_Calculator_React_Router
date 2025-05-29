@@ -64,13 +64,8 @@ Create routing structure with react-router-dom:
 <li>Add styling using CSS or Tailwind.</li>
 
 ## PROGRAM
-
 app.js
-// App.js
-// BMI Calculator using React
-// © 2025 Roop Sagar S L – Register No: 212223040175. All rights reserved.
-// Author: Roop Sagar S L – Project Submission for BMI Calculator
-
+```
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link, useLocation, useNavigate } from "react-router-dom";
 import "./App.css";
@@ -161,10 +156,6 @@ export default function App() {
 
 app.css
 ```
-/* App.css */
-/* BMI Calculator React Project */
-/* © 2025 Roop Sagar. All rights reserved. */
-
 body {
   margin: 0;
   padding: 0;
